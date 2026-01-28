@@ -1,7 +1,6 @@
 # Space Invaders (Python Edition)
 
-![Space Invaders Python](Graphics/screenshot.png)
-> *Catatan: Ganti `Graphics/screenshot.png` dengan lokasi gambar screenshot permainan Anda.*
+![Space Invaders Python](Graphics/Screenshot.png)
 
 ## 📝 Deskripsi
 
