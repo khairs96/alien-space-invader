@@ -27,7 +27,7 @@ Berdasarkan versi saat ini, permainan mencakup elemen-elemen visual dan mekanik 
 
 Untuk menjalankan permainan ini, pastikan Anda telah menginstal:
 
-*   **Python 3.1x**
+*   **Python 3.1x.x**
 *   **Pygame Library**
 
 ## 📦 Cara Instalasi dan Menjalankan
